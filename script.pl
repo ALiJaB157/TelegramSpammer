@@ -8,7 +8,7 @@ use WWW::Telegram::BotAPI;
 use Data::Dumper;
 
 my $api = WWW::Telegram::BotAPI->new (
-    token => '144666850:AAEzPUXg6_nd56RShh6eQXgxZkO07jhgjjKpY'
+    token => '217219779:AAFYSTKag3NhS-0uLb76a0cI8PyGu1raTmo'
 );
 
 my $wl = new Data::Random::WordList( wordlist => 'words' );
